@@ -8,9 +8,6 @@
     <artifactId>netology-hw-jvm</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>netology-hw-jvm</name>
-    <url>https://github.com/cyborg1992/netology-hw-jvm</url>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>

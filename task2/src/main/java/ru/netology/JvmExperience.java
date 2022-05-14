@@ -12,7 +12,6 @@ public class JvmExperience {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Please open 'ru.netology.JvmExperience' in VisualVm");
         Thread.sleep(30_000);
-
         int delay = 3_000;
 
         loadToMetaspaceAllFrom("io.vertx");
